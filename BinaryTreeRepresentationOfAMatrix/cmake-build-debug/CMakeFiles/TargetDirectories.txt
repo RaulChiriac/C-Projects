@@ -1,0 +1,3 @@
+C:/Users/Raul/CLionProjects/Lab5DSA/cmake-build-debug/CMakeFiles/Lab5DSA.dir
+C:/Users/Raul/CLionProjects/Lab5DSA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Raul/CLionProjects/Lab5DSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

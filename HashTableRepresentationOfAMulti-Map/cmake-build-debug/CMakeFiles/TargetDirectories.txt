@@ -1,0 +1,3 @@
+C:/Users/Raul/CLionProjects/Lab4DSA/cmake-build-debug/CMakeFiles/Lab4DSA.dir
+C:/Users/Raul/CLionProjects/Lab4DSA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Raul/CLionProjects/Lab4DSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

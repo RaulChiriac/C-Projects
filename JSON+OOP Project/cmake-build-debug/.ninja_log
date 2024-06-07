@@ -1,0 +1,19 @@
+# ninja log v5
+14	568	7393647761724032	CMakeFiles/ProiectOop.dir/localitate.cpp.obj	1e29c1430b83de59
+16	1101	7393646698030220	CMakeFiles/ProiectOop.dir/ruta.cpp.obj	dcb465b7268ae52f
+8	3362	7393688079354008	CMakeFiles/ProiectOop.dir/controller.cpp.obj	d170a4552e94942b
+1	172	7393691379054630	build.ninja	d9aa19e642bf80f
+10	3247	7393735561080130	CMakeFiles/ProiectOop.dir/controller.cpp.obj	d170a4552e94942b
+20	647	7393764383707032	CMakeFiles/ProiectOop.dir/ruta.cpp.obj	dcb465b7268ae52f
+17	649	7393764383727035	CMakeFiles/ProiectOop.dir/localitate.cpp.obj	1e29c1430b83de59
+11	736	7393764384646969	CMakeFiles/ProiectOop.dir/main.cpp.obj	b6be82a645cd4c7c
+31	3062	7393764407836958	CMakeFiles/ProiectOop.dir/controller.cpp.obj	d170a4552e94942b
+3062	3859	7393764415775184	ProiectOop.exe	f24fc61c55700b84
+7	846	7393764860927657	CMakeFiles/ProiectOop.dir/main.cpp.obj	b6be82a645cd4c7c
+847	2053	7393764872929603	ProiectOop.exe	f24fc61c55700b84
+6	846	7393765141648571	CMakeFiles/ProiectOop.dir/main.cpp.obj	b6be82a645cd4c7c
+847	2063	7393765153735308	ProiectOop.exe	f24fc61c55700b84
+7	5284	7393776577052592	CMakeFiles/ProiectOop.dir/controller.cpp.obj	d170a4552e94942b
+5285	6678	7393776591034099	ProiectOop.exe	f24fc61c55700b84
+7	4880	7393779636154209	CMakeFiles/ProiectOop.dir/controller.cpp.obj	d170a4552e94942b
+4881	6058	7393779648027114	ProiectOop.exe	f24fc61c55700b84
